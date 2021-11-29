@@ -46,16 +46,16 @@ class ChatTextBoxComponent extends React.Component {
   render() {
     const { classes } = this.props;
     const listStickers = [
-      "https://c.tenor.com/BIGB9TPU__YAAAAi/alice-stickers-alice-animated.gif",
-      "https://c.tenor.com/66fR8Loaub4AAAAi/laphie.gif",
-      "https://c.tenor.com/Qon5dmLPKpcAAAAi/blob-fufi.gif",
-      "https://c.tenor.com/6KYaQwPquPYAAAAi/smddiscord-cursed-discord-sticker.gif",
-      "https://c.tenor.com/caGlFpq6pGgAAAAi/mimibubu.gif",
-      "https://c.tenor.com/9oRczrQT-SQAAAAi/cute-transparant.gif",
-      "https://c.tenor.com/LhzqR8OY1WcAAAAi/ninisjgufi-hello.gif",
-      "https://c.tenor.com/pHS-2EXZt2wAAAAi/pentol-quby.gif",
-      "https://c.tenor.com/CmKObjvLCO8AAAAi/sa-aot5.gif",
-      "https://c.tenor.com/8ikJrd4Zc2QAAAAi/sleep-littlebitofab.gif",
+      "https://live.staticflickr.com/65535/51712132023_4e56708c7e_o.gif",
+      "https://live.staticflickr.com/65535/51711858746_1aa7f65ae0_o.gif",
+      "https://live.staticflickr.com/65535/51712739710_e9d9b5acb2_o.gif",
+      "https://live.staticflickr.com/65535/51711072717_bdc485002c_o.gif",
+      "https://live.staticflickr.com/65535/51711072792_098510dfb0_o.gif",
+      "https://live.staticflickr.com/65535/51712739790_ea335cb494_o.gif",
+      "https://live.staticflickr.com/65535/51712528224_c911097c89_o.gif",
+      "https://live.staticflickr.com/65535/51712528234_134ab24958_o.gif",
+      "https://live.staticflickr.com/65535/51712528264_4523a9c650_o.gif",
+      "https://live.staticflickr.com/65535/51712739865_607d99a9a0_o.gif",
     ];
     return (
       <>
